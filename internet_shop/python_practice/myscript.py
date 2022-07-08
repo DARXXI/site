@@ -1,0 +1,1 @@
+print(L=list(range(-5,5)))

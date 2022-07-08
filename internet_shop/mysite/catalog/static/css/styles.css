@@ -1,0 +1,15 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}   
+
+
+
+* {
+    font-size: 20px;
+}
+
+a:active, a:visited, a:hover {
+    color: rgb(245, 132, 27);
+}
